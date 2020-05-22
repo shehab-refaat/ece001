@@ -1,0 +1,28 @@
+
+.class{
+    
+  background-image: url('java.jpg');
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-position: center;
+    background-size: cover;
+}
+ol{
+    list-style-type:hebrew;
+  }
+  ul{
+    list-style-type:square 
+    
+  }
+  li{
+     font-size:xx-large;
+  }
+  p{
+     font-size:large;
+  }
+a:hover{
+    color:Orange;
+    font-weight:bolder;
+    font-size:xx-large;
+    
+}
